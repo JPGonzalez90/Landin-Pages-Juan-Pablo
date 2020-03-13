@@ -1,0 +1,31 @@
+
+  /* FOOTER */
+}
+footer  {
+  background: #E0E0E0;
+  border-top: solid 2px #e4e4e4
+  bottom: 0;
+  padding-bottom: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+footer ul li {
+  display: inline;
+  color: #666666;
+  font-size: 14px;
+  padding: 13px;
+}
+
+footer ul {
+  float: left;
+  padding: 1px;
+}
+
+footer ul a:hover {
+  text-decoration: underline;
+}
+
+.footer-right {
+  float: right;
+}
